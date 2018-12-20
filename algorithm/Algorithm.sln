@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSearch", "BSearch\BSearch.csproj", "{1503A36D-607E-4180-86C0-24AC846309FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HannoTower", "HannoTower\HannoTower.csproj", "{31C7A3D0-6D63-4E55-8407-ECE00DE547CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1503A36D-607E-4180-86C0-24AC846309FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1503A36D-607E-4180-86C0-24AC846309FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1503A36D-607E-4180-86C0-24AC846309FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1503A36D-607E-4180-86C0-24AC846309FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C7A3D0-6D63-4E55-8407-ECE00DE547CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C7A3D0-6D63-4E55-8407-ECE00DE547CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C7A3D0-6D63-4E55-8407-ECE00DE547CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C7A3D0-6D63-4E55-8407-ECE00DE547CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49FF1DB1-465A-42C6-BE87-AD52322F15D3}
+	EndGlobalSection
+EndGlobal
