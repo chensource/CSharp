@@ -2,9 +2,9 @@
 
 namespace CoinChange
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //人民币面值集合
             int money = 442;
@@ -13,7 +13,7 @@ namespace CoinChange
             int[] counts = { 3, 1, 2, 1, 1, 3, 5 };
             //求442元人民币需各种面值多少张
             int[] num = Change(money, values, counts);
-            Display(money,num, values);
+            Display(money, num, values);
             Console.ReadKey();
         }
 
